@@ -1,6 +1,6 @@
 
 
-local Xurco_Settins = {
+local Eclipse_Settins = {
     Camlock = {
         enable = false,
         grabbed_check = false,
